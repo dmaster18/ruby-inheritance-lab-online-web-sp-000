@@ -5,6 +5,7 @@ class Student < User
   def initialize
     KNOWLEDGE = []
   end
-
-
+  
+  DEF LEARN
+  
 end
