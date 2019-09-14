@@ -6,6 +6,6 @@ class Student < User
     KNOWLEDGE = []
   end
   
-  def 
+  def learn
   
 end
